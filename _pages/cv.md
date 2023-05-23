@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. Statistics and Data Science, Yale University, 2022
+  * Phi Beta Kappa
 * M.A. Statistics, Yale University, 2022
 
 Work experience
