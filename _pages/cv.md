@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
+* M.A. Statistics, Yale University, 2022
 * B.S. Statistics and Data Science, Yale University, 2022
   * Phi Beta Kappa, LILY Lab [<a href="https://yale-lily.github.io/">Page</a>]
-* M.A. Statistics, Yale University, 2022
 
 Work experience
 ======
@@ -26,11 +26,3 @@ Work experience
   * Data Science Intern, 05/2022 - 08/2022
 * Kumu: Intern, Ranking and Recommendation Team, 05/2021 - 08/2021
 * Thinking Machines: Intern, Machine Learning Team, 05/2020 - 12/2020
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
