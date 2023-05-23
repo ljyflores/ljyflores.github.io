@@ -142,6 +142,44 @@ analytics:
     tracking_id          :
 
 
+# Site Author
+author:
+  name             : "Lorenzo (Lj) Flores"
+  avatar           : "profile.png"
+  bio              : "Excited by NLP and good coffee, proudly Filipino"
+  location         : "New York City, USA"
+  employer         : 
+  googlescholar    : "https://scholar.google.com/citations?user=LEo5IBIAAAAJ&hl=en"
+  email            : "lj.flores@yale.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "ljyflores"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : 
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+
 # Reading Files
 include:
   - .htaccess
