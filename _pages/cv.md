@@ -11,35 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. Statistics and Data Science, Yale University, 2022
+* M.A. Statistics, Yale University, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* NLP at Yale
+  * Summarization over Tabular Data, with Prof. Dragomir Radev and Linyong Nan, 09/2021 - 12/2022
+  * Simplification of Medical Records, with Prof. Arman Cohan, 02/2023 - Present
+* QuantumBlack, AI by McKinsey
+  * Data Scientist, 03/2023 - Present
+  * Data Science Intern, 05/2022 - 08/2022
+* Kumu: Intern, Ranking and Recommendation Team, 05/2021 - 08/2021
+* Thinking Machines: Intern, Machine Learning Team, 05/2020 - 12/2020
 
 Publications
 ======
@@ -53,12 +37,3 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
