@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. Statistics and Data Science, Yale University, 2022
-  * Phi Beta Kappa
+  * Phi Beta Kappa, LILY Lab [<a href="https://yale-lily.github.io/">Page</a>]
 * M.A. Statistics, Yale University, 2022
 
 Work experience
