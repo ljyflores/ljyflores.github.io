@@ -17,8 +17,9 @@ Education
 Work experience
 ======
 * NLP at Yale
-  * Summarization over Tabular Data, with Prof. Dragomir Radev and Linyong Nan, 09/2021 - 12/2022
   * Simplification of Medical Records, with Prof. Arman Cohan, 02/2023 - Present
+  * Summarization over Tabular Data, with Prof. Dragomir Radev and Linyong Nan, 09/2021 - 12/2022
+  * Fake News Classification and Explanation, with Yiding Hao, 02/2021 - 11/2021
 * QuantumBlack, AI by McKinsey
   * Data Scientist, 03/2023 - Present
   * Data Science Intern, 05/2022 - 08/2022
