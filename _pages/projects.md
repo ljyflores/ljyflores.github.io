@@ -25,5 +25,6 @@ Writing
 * <a href="https://www.rappler.com/newsbreak/in-depth/online-classes-what-the-country-will-need-to-make-it-happen/">Online classes: What the country will need to make them happen</a>, Rappler, July 2020
 * <a href="https://www.rappler.com/newsbreak/in-depth/261439-locations-mapping-hospitals-healthcare-facilities-philippines/">Hospitals in the Philippines: Where they are – and aren’t</a>, Rappler, May 2020
 * <a href="https://www.rappler.com/entertainment/258139-filipino-viewing-habits-netflix-coronavirus-lockdown/">How do we watch? Of Netflix and lockdowns (and K-dramas)</a>, Rappler, April 2020
+* <a href="https://thedecisionlab.com/insights/society/fake-news-why-does-it-persist-and-whos-sharing-it">Fake news: Why does it persist and who's sharing it?</a>
 
 See more articles on my (old) Medium blog, <a href="https://medium.com/@lorenzoflores">here</a>!
