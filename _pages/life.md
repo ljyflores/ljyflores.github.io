@@ -9,7 +9,6 @@ I'm from Manila, Philippines – and came to the US in 2018 for college; these 
 
 | ![Alt text](../images/life_images/346110169_1343832172838406_5088131566623955040_n.jpg) | ![Alt text](../images/life_images/346110560_3447609775503355_3485395503130113911_n.jpg) | ![Alt text](../images/life_images/346112756_1054364385968706_1828497331447554464_n.jpg) |
 | ![Alt text](../images/life_images/346111341_266499575769315_2961617911789792330_n.jpg) | ![Alt text](../images/life_images/346111347_768651997972673_8997637337555974837_n.jpg) | ![Alt text](../images/life_images/346111275_195951600014706_1277093066482133067_n.jpg)|
-| ![Alt text](../images/life_images/346112848_1325576848357716_7118617162510642005_n.jpg) | ![Alt text](../images/life_images/346113288_770759034709848_2267326979408403609_n.jpg) | ![Alt text](../images/life_images/346113386_204768909055877_7495803002898043945_n.jpg) |
 | ![Alt text](../images/life_images/346114218_1525503898255082_8366019705160733579_n.jpg) | ![Alt text](../images/life_images/346114776_774681237403020_3440236152962724941_n.jpg) | ![Alt text](../images/life_images/346114757_961449868273785_7253958127227224276_n.jpg) |
 | ![Alt text](../images/life_images/346114757_1216525072330211_7547676577006998987_n.jpg) | ![Alt text](../images/life_images/346114755_1731936973927278_3364384900907575749_n.jpg) | ![Alt text](../images/life_images/346115083_1436896970465043_6164544193735825696_n.jpg) |
 | ![Alt text](../images/life_images/346115493_790056255780879_7382039044701875799_n.jpg) | ![Alt text](../images/life_images/346116299_130179230069995_2756186488356327484_n.jpg) | ![Alt text](../images/life_images/346119662_189948426886230_577618330216713855_n.jpg) |
@@ -21,3 +20,4 @@ I'm from Manila, Philippines – and came to the US in 2018 for college; these 
 | ![Alt text](../images/life_images/IMG_4946.JPG) | ![Alt text](../images/life_images/IMG_4962.jpg) | ![Alt text](../images/life_images/IMG_5653.JPG) |
 | ![Alt text](../images/life_images/IMG_5867.jpg) | ![Alt text](../images/life_images/IMG_5953.jpg) | ![Alt text](../images/life_images/IMG_6312.jpg) |
 | ![Alt text](../images/life_images/IMG_6351.jpg) | ![Alt text](../images/life_images/IMG_7217.jpg) | ![Alt text](../images/life_images/IMG_7690.jpg) |
+| ![Alt text](../images/life_images/346112848_1325576848357716_7118617162510642005_n.jpg) | ![Alt text](../images/life_images/346113288_770759034709848_2267326979408403609_n.jpg) | ![Alt text](../images/life_images/346113386_204768909055877_7495803002898043945_n.jpg) |
