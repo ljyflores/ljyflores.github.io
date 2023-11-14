@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-And thank you for stopping by! I am Lj Flores, a data scientist at QuantumBlack (AI by McKinsey). I also collaborate with Prof. Arman Cohan and Dr. Sophie Chheang (Yale University) on projects in summarization and simplification. 
+And thank you for stopping by! I am Lj Flores, a data scientist at QuantumBlack (AI by McKinsey). I also collaborate with Prof. Arman Cohan on projects in summarization and simplification. 
 
 I completed my bachelors and masters in statistics at Yale University, where I got to work with Prof. Dragomir Radev and Linyong Nan (LILY Lab) on NLP tasks over tabular data.
 
