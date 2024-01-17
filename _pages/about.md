@@ -21,3 +21,7 @@ Selected Publications
 * Linyong Nan, <b>Lorenzo Flores</b>, Yilun Zhao, Yixin Liu, Luke Benson, Weijin Zou, and Dragomir Radev. 2022. R2D2: Robust Data-to-Text with Replacement Detection, EMNLP 2022 [<a href="https://aclanthology.org/2022.emnlp-main.464/">Paper</a>]
 * <b>Lorenzo Flores</b>, Yiding Hao. 2022. Adversarial Benchmark for Fake News Classification. AAAI 2022 AdvML Workshop [<a href="https://arxiv.org/abs/2201.00912">Paper</a>, <a href="https://github.com/ljyflores/fake-news-adversarial-benchmark">Code</a>]
 * Chiara Ledesma, Oshean Lee Garonita, <b>Lorenzo Flores</b>, Isabelle Tingzon, and Danielle Dalisay. 2020. Interpretable Poverty Mapping using Social Media Data, Satellite Images, and Geospatial Information, ML4D Workshop, NeurIPS 2020, Best Workshop Paper Award [<a href="https://arxiv.org/abs/2011.13563">Paper</a>]
+
+Other Projects I'm Thinking About
+======
+* `LossLibrary`: a repository that consolidates loss functions from NLP literature and helps users integrate it into training [<a href="https://github.com/ljyflores/loss-library"Here!</a>]
