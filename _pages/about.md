@@ -24,4 +24,4 @@ Selected Publications
 
 Other Projects I'm Thinking About
 ======
-* `LossLibrary`: a repository that consolidates loss functions from NLP literature and helps users integrate it into training [<a href="https://github.com/ljyflores/loss-library"Here!</a>]
+* `LossLibrary`: a repository that consolidates loss functions from NLP literature and helps users integrate it into training [<a href="https://github.com/ljyflores/loss-library">Here!</a>]
