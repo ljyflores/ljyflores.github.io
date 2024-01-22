@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Lorenzo (Lj) Flores"
+title                    : "Lorenzo Flores (Lj)"
 title_separator          : "-"
-name                     : &name "Lorenzo (Lj) Flores"
+name                     : &name "Lorenzo Flores (Lj)"
 description              : &description "Personal website for academic projects"
 url                      : https://ljyflores.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -144,7 +144,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lorenzo (Lj) Flores"
+  name             : "Lorenzo Flores (Lj)"
   avatar           : "profile.png"
   bio              : "Excited by NLP and good coffee, proudly Filipino"
   location         : "New York City, USA"
