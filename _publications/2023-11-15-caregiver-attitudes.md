@@ -4,7 +4,7 @@ collection: publications
 permalink: none
 date: 2023-11-15
 venue: 'American Medical Informatics Association (AMIA) 2023 Annual Symposium'
-paperurl: none
+paperurl: 'https://pubmed.ncbi.nlm.nih.gov/38222330/'
 authors: 'Gaetano Manzo, Leo Anthony Celi, Yasmeen Shabazz, Rory Mulcahey, Lorenzo Flores, Dina Demner-Fushman'
 ---
 
