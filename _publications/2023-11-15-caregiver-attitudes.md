@@ -9,3 +9,5 @@ authors: 'Gaetano Manzo, Leo Anthony Celi, Yasmeen Shabazz, Rory Mulcahey, Loren
 ---
 
 We propose a dataset to identify caregivers' sentiment from clinical notes, and demonstrate that RoBERTa achieves the best performance on the sentiment classification task. 
+
+[Download paper here](https://pubmed.ncbi.nlm.nih.gov/38222330/)
