@@ -3,7 +3,7 @@ title: "An Adversarial Benchmark for Fake News Detection Models"
 collection: publications
 permalink: /publication/2022-01-03-adversarial-benchmark
 date: 2022-01-03
-venue: 'AAAI, Workshop on Adversarial Machine Learning and Beyond'
+venue: 'AAAI 2022, Workshop on Adversarial Machine Learning and Beyond'
 paperurl: 'https://arxiv.org/abs/2201.00912'
 authors: 'Lorenzo Flores, Yiding Hao'
 ---

@@ -3,7 +3,7 @@ title: "Interpretable Poverty Mapping using Social Media Data, Satellite Images,
 collection: publications
 permalink: /publication/2020-11-27-poverty-mapping
 date: 2020-11-27
-venue: 'NeurIPS, Workshop on Machine Learning for the Developing World'
+venue: 'NeurIPS 2020, Workshop on Machine Learning for the Developing World'
 paperurl: 'https://arxiv.org/abs/2011.13563'
 authors: 'Chiara Ledesma, Oshean Garonita, Lorenzo Flores, Isabelle Tingzon, Danielle Dalisay'
 ---

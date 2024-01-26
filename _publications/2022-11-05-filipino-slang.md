@@ -3,7 +3,7 @@ title: "Revisiting the Effectiveness of Automatic N-Gram Rule Generation for Spe
 collection: publications
 permalink: /publication/2022-11-05-filipino-slang
 date: 2022-11-05
-venue: 'EMNLP, Workshop on Simple and Efficient Natural Language Processing'
+venue: 'EMNLP 2022, Workshop on Simple and Efficient Natural Language Processing'
 paperurl: 'https://arxiv.org/abs/2210.02675'
 authors: 'Lorenzo Flores, Dragomir Radev'
 ---
