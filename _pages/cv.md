@@ -10,17 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-
 ======
-
 * M.A. Statistics, Yale University, 2022
 * B.S. Statistics and Data Science, Yale University, 2022
   * Phi Beta Kappa, LILY Lab [<a href="https://yale-lily.github.io/">Page</a>]
 
 Work experience
-
 ======
-
 * NLP at Yale
   * Simplification of Medical Records, with Prof. Arman Cohan, 02/2023 - Present
   * Summarization over Tabular Data, with Prof. Dragomir Radev and Linyong Nan, 09/2021 - 12/2022
