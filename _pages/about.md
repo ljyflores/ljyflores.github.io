@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-And thank you for stopping by! I am Lj Flores, a data scientist at QuantumBlack (AI by McKinsey). I also collaborate with Prof. Arman Cohan on projects in summarization and simplification. 
+And thank you for stopping by! I am Lj Flores, an incoming graduate student at the [Montreal Institute for Learning Algorithms](https://mila.quebec/en) and McGill University, with [Professor Jackie Cheung](https://www.cs.mcgill.ca/~jcheung/). I also collaborate with [Prof. Arman Cohan](https://armancohan.com/) on projects in summarization and simplification.
 
 I completed a joint bachelors and masters in statistics at Yale University, where I got to work with Prof. Dragomir Radev and Linyong Nan (LILY Lab) on NLP tasks over tabular data.
 
