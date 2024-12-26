@@ -23,6 +23,10 @@ Selected Publications
 * <b>Lorenzo Flores</b>, Yiding Hao. 2022. Adversarial Benchmark for Fake News Classification. AAAI 2022 AdvML Workshop [<a href="https://arxiv.org/abs/2201.00912">Paper</a>, <a href="https://github.com/ljyflores/fake-news-adversarial-benchmark">Code</a>]
 * Chiara Ledesma, Oshean Lee Garonita, <b>Lorenzo Flores</b>, Isabelle Tingzon, and Danielle Dalisay. 2020. Interpretable Poverty Mapping using Social Media Data, Satellite Images, and Geospatial Information, ML4D Workshop, NeurIPS 2020, Best Workshop Paper Award [<a href="https://arxiv.org/abs/2011.13563">Paper</a>]
 
-Projects I'm Working On (!)
+ML Projects I'm Working On (!)
 ======
 * `LossLibrary`: a repository that consolidates loss functions from NLP literature and helps users integrate it into training [<a href="https://github.com/ljyflores/loss-library">Here!</a>]
+
+Other Projects (!)
+======
+* `CPG Lookup`: a lookup tool for Philippine clinical practice guidelines using semantic search [<a href="http://44.242.211.109/">Here!</a>]
