@@ -25,7 +25,7 @@ author:
   name             : "Lorenzo (Lj) Flores"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "New York City, USA"
+  location         : "Montreal, Quebec, Canada"
   employer         : "Montreal Institute for Learning Algorithms + McGill University"
   uri              : # URL
   email            : "lj.flores@yale.edu" 
@@ -147,7 +147,7 @@ author:
   name             : "Lorenzo Flores (Lj)"
   avatar           : "profile.png"
   bio              : "Excited by NLP and good coffee, proudly Filipino"
-  location         : "New York City, USA"
+  location         : "Montreal, Quebec, Canada"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=LEo5IBIAAAAJ&hl=en"
   email            : "lj.flores@yale.edu"

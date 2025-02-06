@@ -16,6 +16,8 @@ Previously, I worked with <a href="https://armancohan.com/">Prof. Arman Cohan</a
 
 I am interested in making NLP and machine learning work when data is scarce, and am excited to see its applications in low-resource scenarios (especially in the Philippines)!
 
+Before coming to Montreal, I was a data scientist at McKinsey and Company (QuantumBlack) in New York, and interned with <a href="https://elicit.com/">Elicit</a> as a machine learning engineer!
+
 Selected Publications
 ======
 ### Improving Factuality & Accuracy of Language Models
