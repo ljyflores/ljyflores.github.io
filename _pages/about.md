@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-And thank you for stopping by!
+I am a MSc student (Research Track) at <a href="https://mila.quebec/en">MILA</a> and McGill University, with <a href="https://www.cs.mcgill.ca/~jcheung/">Professor Jackie Cheung</a>. I primarily work in natural language processing, and am interested in ways to train models with scarce data.
 
-I am Lorenzo Flores, an MSc thesis student at MILA (<a href="https://mila.quebec/en">Montreal Institute for Learning Algorithms</a>) and McGill University, with <a href="https://www.cs.mcgill.ca/~jcheung/">Professor Jackie Cheung</a>.
+Previously, I worked on summarization and simplification (under <a href="https://armancohan.com/">Prof. Arman Cohan</a>), and NLP for tabular data (under <a href="https://www.cs.yale.edu/homes/radev/">Prof. Dragomir Radev</a>, <a href="https://linyongnan.github.io/">Linyong Nan</a>) at Yale.
 
-Previously, I worked with <a href="https://armancohan.com/">Prof. Arman Cohan</a> on summarization and simplification. I completed a joint BS/MA in statistics at Yale University, where I worked with <a href="https://www.cs.yale.edu/homes/radev/">Prof. Dragomir Radev</a> and <a href="https://linyongnan.github.io/">Linyong Nan</a> (LILY Lab) on NLP for tabular data.
-
-I am interested in making NLP and machine learning work when data is scarce, and am excited to see its applications in low-resource scenarios (especially in the Philippines)!
-
-Before coming to Montreal, I was a data scientist at McKinsey and Company (QuantumBlack) in New York, and interned with <a href="https://elicit.com/">Elicit</a> as a machine learning engineer!
+Before grad school, I was a data scientist at McKinsey and Company (QuantumBlack) in New York, and an ML engineer intern at <a href="https://elicit.com/">Elicit</a>. I completed my undergraduate studies in statistics at Yale University.
 
 Selected Publications
 ======
@@ -31,10 +27,7 @@ Selected Publications
 
 * Chiara Ledesma, Oshean Lee Garonita, <b>Lorenzo Flores</b>, Isabelle Tingzon, and Danielle Dalisay. 2020. Interpretable Poverty Mapping using Social Media Data, Satellite Images, and Geospatial Information, ML4D Workshop, NeurIPS 2020, Best Workshop Paper Award [<a href="https://arxiv.org/abs/2011.13563">Paper</a>]
 
-ML Projects I'm Working On (!)
+Projects
 ======
 * `LossLibrary`: a repository that consolidates loss functions from NLP literature and helps users integrate it into training [<a href="https://github.com/ljyflores/loss-library">Here!</a>]
-
-Other Projects (!)
-======
 * `CPG Lookup`: a lookup tool for Philippine clinical practice guidelines using semantic search [<a href="http://44.242.211.109/">Here!</a>]

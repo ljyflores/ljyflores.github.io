@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * M.Sc. Thesis Computer Science, MILA + McGill University, 2024-2026
@@ -30,3 +28,7 @@ Work Experience
 * Kumu: Machine Learning Intern, Ranking and Recommendation Team, 05/2021 - 08/2021
 * TikTok: Machine Learning Engineering Intern (Cancelled due to Covid, Summer 2021)
 * Thinking Machines: Intern, Machine Learning Team, 05/2020 - 12/2020
+
+Research
+======
+* Reviewer for ACL ARR (Feb 2025), ICLR Workshop on Reasoning and Planning
