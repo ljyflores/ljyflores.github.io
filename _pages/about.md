@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I'm an AI/ML applied research intern at Adobe in San Jose, CA! 
+Currently, I'm an AI/ML applied research intern at Adobe in San Jose, CA!
 
 I am a MSc student (Research Track) at <a href="https://mila.quebec/en">MILA</a> and McGill University, with <a href="https://www.cs.mcgill.ca/~jcheung/">Professor Jackie Cheung</a>. I primarily work in natural language processing, and am interested in ways to train models with scarce data.
 
@@ -18,6 +18,7 @@ Before grad school, I was a data scientist at McKinsey and Company (QuantumBlack
 
 Selected Publications
 ======
+* <b>Lorenzo Flores</b>, Junyi Shen, Goodman Gu. Towards Reliable Multi-Agent Systems for Marketing Applications via Reflection, Memory, and Planning, ArXiv [<a href="https://arxiv.org/abs/2508.11120">Paper</a>]
 * <b>Lorenzo Flores</b>, Ori Ernst, Jackie Chi Kit Cheung. Improving the Calibration of Confidence Scores in Text Generation Using the Output Distribution's Characteristics, ACL 2025 [<a href="https://arxiv.org/abs/2506.00637">Paper</a>, <a href="https://github.com/ljyflores/calibrated-confidence-for-nlg">Code</a>]
 * <b>Lorenzo Flores</b> and Arman Cohan. On the Benefits of Fine-Grained Loss Truncation: A Case Study on Factuality in Summarization, EACL 2024 [<a href="https://aclanthology.org/2024.eacl-short.13/">Paper</a>, <a href="https://drive.google.com/file/d/17K8AksYCXYQd7vKAjdbHMmKRyn3daaPZ/view?usp=sharing">Video</a>, <a href="https://github.com/yale-nlp/Simplification-Projects">Code</a>]
 * <b>Lorenzo Flores</b>, Heyuan Huang, Kejian Shi, Sophie Chheang, and Arman Cohan. 2023. Medical Text Simplification: Optimizing for Readability with Unlikelihood Training and Reranked Beam Search Decoding, EMNLP 2023 Findings [<a href="https://aclanthology.org/2023.findings-emnlp.322/">Paper</a>, <a href="https://drive.google.com/file/d/1NBWzFTFdtmR2gL2Sq_ah-Dwuz8rME6Zc/view?usp=sharing">Video</a>, <a href="https://github.com/yale-nlp/Simplification-Projects">Code</a>, <a href="https://huggingface.co/spaces/ljyflores/simplification-model-app">Demo</a>]
