@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I doing a MSc (Research) in Computer Science at <a href="https://mila.quebec/en">MILA</a> and McGill University, with <a href="https://www.cs.mcgill.ca/~jcheung/">Professor Jackie Cheung</a>. I work on natural language processing, and how to train models with scarce data.
+I'm doing a MSc (Research) in Computer Science at <a href="https://mila.quebec/en">MILA</a> and McGill University, with <a href="https://www.cs.mcgill.ca/~jcheung/">Professor Jackie Cheung</a>. I work on natural language processing, and how to train models with scarce data.
 
 **Past Research**: Previously, I worked on NLP for summarization and simplification (with <a href="https://armancohan.com/">Prof. Arman Cohan</a>), and tabular data (with <a href="https://www.cs.yale.edu/homes/radev/">Prof. Dragomir Radev</a>, <a href="https://linyongnan.github.io/">Linyong Nan</a>) at Yale.
 
 **Work Experience**: I've interned at Adobe (2025, AI Applied Research) and Elicit (2024, ML Engg). Before that, I was a data scientist at McKinsey and Company, QuantumBlack (2023-2024).
 
-Passion Projects
+WriteDoc
 =====
 I'm working on <a href="write-doc.com">**WriteDoc**</a>, a medical scribe + paperwork tool for Filipino/Taglish! We're piloting with various doctors + clinics – would love to chat if you're interested in healthcare x AI.
 
