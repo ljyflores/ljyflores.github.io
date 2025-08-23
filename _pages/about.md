@@ -18,8 +18,6 @@ WriteDoc
 =====
 I'm working on <a href="write-doc.com">**WriteDoc**</a>, a medical scribe + paperwork tool for Filipino/Taglish! We're piloting with various doctors + clinics – would love to chat if you're interested in healthcare x AI.
 
-Check us out at <a href="write-doc.com">write-doc.com</a>!
-
 Selected Publications
 ======
 * <b>Lorenzo Flores</b>, Junyi Shen, Goodman Gu. Towards Reliable Multi-Agent Systems for Marketing Applications via Reflection, Memory, and Planning, ArXiv [<a href="https://arxiv.org/abs/2508.11120">Paper</a>]
