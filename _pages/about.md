@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I'm an AI/ML applied research intern at Adobe in San Jose, CA!
+I doing a MSc (Research) in Computer Science at <a href="https://mila.quebec/en">MILA</a> and McGill University, with <a href="https://www.cs.mcgill.ca/~jcheung/">Professor Jackie Cheung</a>. I work on natural language processing, and how to train models with scarce data.
 
-I am a MSc student (Research Track) at <a href="https://mila.quebec/en">MILA</a> and McGill University, with <a href="https://www.cs.mcgill.ca/~jcheung/">Professor Jackie Cheung</a>. I primarily work in natural language processing, and am interested in ways to train models with scarce data.
+**Past Research**: Previously, I worked on NLP for summarization and simplification (with <a href="https://armancohan.com/">Prof. Arman Cohan</a>), and tabular data (with <a href="https://www.cs.yale.edu/homes/radev/">Prof. Dragomir Radev</a>, <a href="https://linyongnan.github.io/">Linyong Nan</a>) at Yale.
 
-Previously, I worked on summarization and simplification (under <a href="https://armancohan.com/">Prof. Arman Cohan</a>), and NLP for tabular data (under <a href="https://www.cs.yale.edu/homes/radev/">Prof. Dragomir Radev</a>, <a href="https://linyongnan.github.io/">Linyong Nan</a>) at Yale.
+**Work Experience**: I've interned at Adobe (2025, AI Applied Research) and Elicit (2024, ML Engg). Before that, I was a data scientist at McKinsey and Company, QuantumBlack (2023-2024).
 
-Before grad school, I was a data scientist at McKinsey and Company (QuantumBlack) in New York, and an ML engineer intern at <a href="https://elicit.com/">Elicit</a>. I completed my undergraduate studies in statistics at Yale University.
+Passion Projects
+=====
+I'm working on <a href="write-doc.com">**WriteDoc**</a>, a medical scribe + paperwork tool for Filipino/Taglish! We're piloting with various doctors + clinics – would love to chat if you're interested in healthcare x AI.
+
+Check us out at <a href="write-doc.com">write-doc.com</a>!
 
 Selected Publications
 ======
