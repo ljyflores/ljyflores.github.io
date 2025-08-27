@@ -16,7 +16,7 @@ I'm doing a MSc (Research) in Computer Science at <a href="https://mila.quebec/e
 
 WriteDoc
 =====
-I'm working on <a href="write-doc.com">**WriteDoc**</a>, a medical scribe + paperwork tool for Filipino/Taglish! We're piloting with various doctors + clinics – would love to chat if you're interested in healthcare x AI.
+I'm working on **WriteDoc** (check us out at write-doc.com!), a medical scribe + paperwork tool for Filipino/Taglish! We're piloting with various doctors + clinics – would love to chat if you're interested in healthcare x AI.
 
 Selected Publications
 ======
