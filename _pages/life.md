@@ -29,4 +29,9 @@ I'm from Manila, Philippines – and came to the US in 2018 for college; these 
 | ![Alt text](../images/life_images/7a.jpg) | ![Alt text](../images/life_images/7b.jpg) | ![Alt text](../images/life_images/7c.jpg) |
 | ![Alt text](../images/life_images/8a.jpg) | ![Alt text](../images/life_images/8b.jpg) | ![Alt text](../images/life_images/8c.jpg) |
 | ![Alt text](../images/life_images/9a.jpg) | ![Alt text](../images/life_images/9b.jpg) | ![Alt text](../images/life_images/9c.jpg) |
-| ![Alt text](../images/life_images/10a.jpg) | ![Alt text](../images/life_images/10b.jpg) |  |
+| ![Alt text](../images/life_images/10a.jpg) | ![Alt text](../images/life_images/10b.jpg) | ![Alt text](../images/life_images/IMG_7527.jpg) |
+| ![Alt text](../images/life_images/IMG_8277.jpg) | ![Alt text](../images/life_images/IMG_8356.jpg) | ![Alt text](../images/life_images/IMG_9086.jpg) |
+| ![Alt text](../images/life_images/IMG_7399.jpg) | ![Alt text](../images/life_images/IMG_8440.jpg) | ![Alt text](../images/life_images/IMG_8815.jpg) |
+| ![Alt text](../images/life_images/IMG_8951.jpg) | ![Alt text](../images/life_images/IMG_9213.jpg) | ![Alt text](../images/life_images/IMG_9561.jpg) |
+| ![Alt text](../images/life_images/IMG_9515.jpg) | ![Alt text](../images/life_images/IMG_9593.jpg) | ![Alt text](../images/life_images/IMG_9616.jpg) |
+| ![Alt text](../images/life_images/IMG_9641.jpg) | ![Alt text](../images/life_images/IMG_9842.jpg) | ![Alt text](../images/life_images/IMG_9890.jpg) |
