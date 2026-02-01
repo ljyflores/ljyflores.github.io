@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm doing a MSc (Research) in Computer Science at <a href="https://mila.quebec/en">MILA</a> and McGill University, with <a href="https://www.cs.mcgill.ca/~jcheung/">Professor Jackie Cheung</a>. I work on natural language processing, and how to train models with scarce data.
+Hello! I am a machine learning engineer at Microsoft's <a href="https://www.microsoft.com/en-us/research/group/office-of-applied-research/">Office for Applied Research</a>.
 
-**Past Research**: Previously, I worked on NLP for summarization and simplification (with <a href="https://armancohan.com/">Prof. Arman Cohan</a>), and tabular data (with <a href="https://www.cs.yale.edu/homes/radev/">Prof. Dragomir Radev</a>, <a href="https://linyongnan.github.io/">Linyong Nan</a>) at Yale.
+**Past Research**: I worked on uncertainty quantification and active learnig with Professor  <a href="https://www.cs.mcgill.ca/~jcheung/">Professor Jackie Cheung</a> at <a href="https://mila.quebec/en">MILA</a> and McGill University, where I did my MSc (Research). Before that, I worked on summarization and simplification tasks with <a href="https://armancohan.com/">Prof. Arman Cohan</a>, and tabular data with <a href="https://www.cs.yale.edu/homes/radev/">Prof. Dragomir Radev</a>, <a href="https://linyongnan.github.io/">Linyong Nan</a> at Yale.
 
 **Work Experience**: I've interned at Adobe (2025, AI Applied Research) and Elicit (2024, ML Engg). Before that, I was a data scientist at McKinsey and Company, QuantumBlack (2023-2024).
 
