@@ -20,6 +20,8 @@ I'm working on **WriteDoc** (check us out at write-doc.com!), a medical scribe +
 
 Selected Publications
 ======
+* <b>Lorenzo Flores</b>, Cesare Spinoso di-Piano, Ori Ernst, David Ifeoluwa Adelani, and Jackie Chi Kit Cheung. Testing the Assumptions of Active Learning for Translation Tasks with Few Samples, ArXiv [<a href="https://arxiv.org/html/2604.08977v1">Paper</a>]
+* <b>Lorenzo Flores</b>, Cesare Spinoso di-Piano, Jackie Chi Kit Cheung. Confident in a Confidence Score: Investigating the Sensitivity of Confidence Scores to Supervised Fine-Tuning, ArXiv [<a href="https://arxiv.org/html/2604.08974v1">Paper</a>]
 * <b>Lorenzo Flores</b>, Junyi Shen, Goodman Gu. Towards Reliable Multi-Agent Systems for Marketing Applications via Reflection, Memory, and Planning, ArXiv [<a href="https://arxiv.org/abs/2508.11120">Paper</a>]
 * <b>Lorenzo Flores</b>, Ori Ernst, Jackie Chi Kit Cheung. Improving the Calibration of Confidence Scores in Text Generation Using the Output Distribution's Characteristics, ACL 2025 [<a href="https://arxiv.org/abs/2506.00637">Paper</a>, <a href="https://github.com/ljyflores/calibrated-confidence-for-nlg">Code</a>]
 * <b>Lorenzo Flores</b> and Arman Cohan. On the Benefits of Fine-Grained Loss Truncation: A Case Study on Factuality in Summarization, EACL 2024 [<a href="https://aclanthology.org/2024.eacl-short.13/">Paper</a>, <a href="https://drive.google.com/file/d/17K8AksYCXYQd7vKAjdbHMmKRyn3daaPZ/view?usp=sharing">Video</a>, <a href="https://github.com/yale-nlp/Simplification-Projects">Code</a>]
