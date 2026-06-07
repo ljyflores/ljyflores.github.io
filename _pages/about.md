@@ -12,11 +12,7 @@ Hello! I am a machine learning engineer at Microsoft's <a href="https://www.micr
 
 **Past Research**: I worked on uncertainty quantification and active learning with Professor <a href="https://www.cs.mcgill.ca/~jcheung/">Jackie Cheung</a> at <a href="https://mila.quebec/en">MILA</a> and McGill University, where I did my MSc (Research Track). Before that, I worked on summarization and simplification tasks with <a href="https://armancohan.com/">Prof. Arman Cohan</a>, and tabular data with <a href="https://www.cs.yale.edu/homes/radev/">Prof. Dragomir Radev</a>, <a href="https://linyongnan.github.io/">Linyong Nan</a> at Yale, where I did my undergrad studies.
 
-**Work Experience**: I've interned at Adobe (2025, AI Applied Research) and Elicit (2024, ML Engg). Before that, I was a data scientist at McKinsey and Company, QuantumBlack (2023-2024).
-
-WriteDoc
-=====
-I'm working on **WriteDoc** (check us out at write-doc.com!), a medical scribe + paperwork tool for Filipino/Taglish! We're piloting with various doctors + clinics – would love to chat if you're interested in healthcare x AI.
+**Past Work Experience**: I've interned at Adobe (2025, AI Applied Research) and Elicit (2024, ML Engg). Before that, I was a data scientist at McKinsey and Company, QuantumBlack (2023-2024).
 
 Selected Publications
 ======
@@ -33,4 +29,5 @@ Selected Publications
 
 Projects
 ======
+* `WriteDoc` (check us out at write-doc.com!): a medical scribe + paperwork tool for Filipino/Taglish! We're piloting with various doctors + clinics – would love to chat if you're interested in healthcare x AI [<a href="https://www.write-doc.com">Here!</a>]
 * `LossLibrary`: a repository that consolidates loss functions from NLP literature and helps users integrate it into training [<a href="https://github.com/ljyflores/loss-library">Here!</a>]
