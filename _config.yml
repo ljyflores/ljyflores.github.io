@@ -25,8 +25,8 @@ author:
   name             : "Lorenzo (Lj) Flores"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Montreal, Quebec, Canada"
-  employer         : "Montreal Institute for Learning Algorithms + McGill University"
+  location         : "Redmond, Washington, USA"
+  employer         : "Microsoft - Office of Applied Research"
   uri              : # URL
   email            : "ljyflores@gmail.com" 
 
@@ -147,8 +147,8 @@ author:
   name             : "Lorenzo Flores (Lj)"
   avatar           : "profile.png"
   bio              : "Excited by NLP and good coffee, proudly Filipino"
-  location         : "Montreal, Quebec, Canada"
-  employer         : 
+  location         : "Redmond, Washington, USA"
+  employer         : "Microsoft - Office of Applied Research"
   googlescholar    : "https://scholar.google.com/citations?user=sGxo6qQAAAAJ&hl=en&oi=ao"
   email            : "ljyflores@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"

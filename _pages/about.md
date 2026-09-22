@@ -10,14 +10,18 @@ redirect_from:
 
 Hello! I am a machine learning engineer at Microsoft's <a href="https://www.microsoft.com/en-us/research/group/office-of-applied-research/">Office for Applied Research</a>.
 
-**Past Research**: I worked on uncertainty quantification and active learning with Professor <a href="https://www.cs.mcgill.ca/~jcheung/">Jackie Cheung</a> at <a href="https://mila.quebec/en">MILA</a> and McGill University, where I did my MSc (Research Track). Before that, I worked on summarization and simplification tasks with <a href="https://armancohan.com/">Prof. Arman Cohan</a>, and tabular data with <a href="https://www.cs.yale.edu/homes/radev/">Prof. Dragomir Radev</a>, <a href="https://linyongnan.github.io/">Linyong Nan</a> at Yale, where I did my undergrad studies.
+**Research Interests**:
+* **Uncertainty Quantification & Active Learning** with Professor <a href="https://www.cs.mcgill.ca/~jcheung/">Jackie Cheung</a> at <a href="https://mila.quebec/en">MILA</a> and McGill University (MSc, Research Track). 
+* **Summarization and Simplification** with <a href="https://armancohan.com/">Prof. Arman Cohan</a> and <a href="https://www.cs.yale.edu/homes/radev/">Prof. Dragomir Radev</a>, <a href="https://linyongnan.github.io/">Linyong Nan</a> at Yale University (BSc)
 
-**Past Work Experience**: I've interned at Adobe (2025, AI Applied Research) and Elicit (2024, ML Engg). Before that, I was a data scientist at McKinsey and Company, QuantumBlack (2023-2024).
+**Past Work Experience**:
+* **Internships:** Adobe (2025, AI Applied Research), Elicit (2024, ML Engg)
+* **Work:** McKinsey and Company, QuantumBlack (2023-2024, Data Science)
 
 Selected Publications
 ======
-* <b>Lorenzo Flores</b>, Cesare Spinoso di-Piano, Ori Ernst, David Ifeoluwa Adelani, and Jackie Chi Kit Cheung. Testing the Assumptions of Active Learning for Translation Tasks with Few Samples, ArXiv [<a href="https://arxiv.org/html/2604.08977v1">Paper</a>]
-* <b>Lorenzo Flores</b>, Cesare Spinoso di-Piano, Jackie Chi Kit Cheung. Confident in a Confidence Score: Investigating the Sensitivity of Confidence Scores to Supervised Fine-Tuning, ArXiv [<a href="https://arxiv.org/html/2604.08974v1">Paper</a>]
+* <b>Lorenzo Flores</b>, Cesare Spinoso di-Piano, Ori Ernst, David Ifeoluwa Adelani, and Jackie Chi Kit Cheung. Testing the Assumptions of Active Learning for Translation Tasks with Few Samples, EMNLP 2026 Multilingual Representation Learning Workshop [<a href="https://arxiv.org/html/2604.08977v1">Paper</a>, <a href="https://github.com/ljyflores/active-learning-assumptions">Code</a>]
+* <b>Lorenzo Flores</b>, Cesare Spinoso di-Piano, Jackie Chi Kit Cheung. Confident in a Confidence Score: Investigating the Sensitivity of Confidence Scores to Supervised Fine-Tuning, EMNLP 2026 UncertaiNLP Workshop [<a href="https://arxiv.org/html/2604.08974v1">Paper</a>, <a href="https://github.com/ljyflores/sensitivity-of-calibration-to-sft/settings">Code</a>]
 * <b>Lorenzo Flores</b>, Junyi Shen, Goodman Gu. Towards Reliable Multi-Agent Systems for Marketing Applications via Reflection, Memory, and Planning, ArXiv [<a href="https://arxiv.org/abs/2508.11120">Paper</a>]
 * <b>Lorenzo Flores</b>, Ori Ernst, Jackie Chi Kit Cheung. Improving the Calibration of Confidence Scores in Text Generation Using the Output Distribution's Characteristics, ACL 2025 [<a href="https://arxiv.org/abs/2506.00637">Paper</a>, <a href="https://github.com/ljyflores/calibrated-confidence-for-nlg">Code</a>]
 * <b>Lorenzo Flores</b> and Arman Cohan. On the Benefits of Fine-Grained Loss Truncation: A Case Study on Factuality in Summarization, EACL 2024 [<a href="https://aclanthology.org/2024.eacl-short.13/">Paper</a>, <a href="https://drive.google.com/file/d/17K8AksYCXYQd7vKAjdbHMmKRyn3daaPZ/view?usp=sharing">Video</a>, <a href="https://github.com/yale-nlp/Simplification-Projects">Code</a>]
